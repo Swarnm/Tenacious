@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "promofeed",
+    "staging": "promofeed-4b32f"
+  }
+}
