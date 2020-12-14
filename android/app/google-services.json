@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "56830708897",
+    "firebase_url": "https://promofeed-4b32f.firebaseio.com",
+    "project_id": "promofeed-4b32f",
+    "storage_bucket": "promofeed-4b32f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56830708897:android:772311aeadebe0b216f4e0",
+        "android_client_info": {
+          "package_name": "com.swarnmishra.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56830708897-51os7s5i4lruj0a84ip30uht7eearrot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZx8Q38biSEQqXmUib1B75xb9KYTmvkz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56830708897-51os7s5i4lruj0a84ip30uht7eearrot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
